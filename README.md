@@ -28,11 +28,12 @@
 
 <br />
 
+<!-- Stats: official github-readme-stats.vercel.app is often 503; using community mirror. Backup: github-readme-stats-ruby-one.vercel.app -->
 <p align="center">
   <table>
     <tr>
       <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Si1verSurfer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub stats" />
+        <img src="https://github-readme-stats.zohan.tech/api?username=Si1verSurfer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub stats" />
       </td>
       <td align="center" valign="top" width="50%">
         <img src="https://streak-stats.demolab.com?user=Si1verSurfer&theme=tokyonight&hide_border=true&border_radius=8" alt="Contribution streak" />
@@ -41,7 +42,7 @@
     <tr>
       <td align="center" colspan="2">
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1verSurfer&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=8" alt="Top languages" />
+        <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Si1verSurfer&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=8" alt="Top languages" />
       </td>
     </tr>
   </table>
