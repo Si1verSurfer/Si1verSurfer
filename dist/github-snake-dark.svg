@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120" role="img" aria-label="Placeholder until GitHub Actions generates the snake">
+  <rect fill="#0d1117" width="800" height="120" rx="8"/>
+  <text x="400" y="58" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, monospace" font-size="14" text-anchor="middle">Push this repo, then run workflow: Generate contribution snake</text>
+  <text x="400" y="82" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12" text-anchor="middle">Repo must be Si1verSurfer/Si1verSurfer (public)</text>
+</svg>
