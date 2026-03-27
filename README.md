@@ -81,10 +81,15 @@ I work across **mobile (Flutter)**, **ERP (Odoo)**, **backend services (Go, Pyth
 
 ---
 
-### Contribution history
+### Profile summary
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Si1verSurfer&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Si1verSurfer&theme=tokyonight" alt="Profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Si1verSurfer&theme=tokyonight" alt="Productive time on commits" />
+</p>
+
+<p align="center">
+  <sub>Cards by <a href="https://github.com/vn7n24fzoq/github-profile-summary-cards">github-profile-summary-cards</a></sub>
 </p>
 
 ---
