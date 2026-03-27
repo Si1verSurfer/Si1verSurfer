@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/Si1verSurfer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/si1versurfer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/bashar-rizq/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mostaql.com/u/basharr_1"><img src="https://img.shields.io/badge/Mostaql-Profile-1a936f?style=for-the-badge" alt="Mostaql" /></a>
   <img src="https://komarev.com/ghpvc/?username=Si1verSurfer&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="Profile views" />
 </p>
 
