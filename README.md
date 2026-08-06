@@ -1,296 +1,230 @@
 <!-- ========================================================= -->
-<!--                 GitHub Profile README                     -->
+<!--           GitHub Profile README — Si1verSurfer            -->
+<!--  Paste this into: github.com/Si1verSurfer/Si1verSurfer   -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:1f2937,100:111827&text=Bashar%20Rizk&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Developer&descAlignY=58"/>
-</p>
-
-<h1 align="center">
-Building modern mobile applications powered by scalable backends and AI.
-</h1>
-
-<p align="center">
-I enjoy transforming complex ideas into products that are fast, beautiful, and reliable.
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:1f2937,100:111827&text=Bashar%20Rizk&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Developer&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Si1verSurfer">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# About Me
-
-I'm a software engineer passionate about building production-ready applications that combine clean architecture, intuitive user experiences, scalable backend systems, and practical AI solutions.
-
-My work mainly focuses on cross-platform mobile development using Flutter, backend development with Node.js and Go, and intelligent applications powered by machine learning.
-
-I enjoy designing software that is not only functional but also maintainable, scalable, and pleasant to use.
-
----
-
-# What I Build
-
-- Cross-platform Mobile Applications
-- AI-powered Healthcare Systems
-- Backend APIs & Microservices
-- Full Stack SaaS Platforms
-- Real-time Applications
-- Clean Architecture Projects
-- Dashboard Systems
-- Automation Tools
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=dart,python,go,js,ts,cs"/>
-
-</p>
-
----
-
-## Mobile Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-</p>
-
-- Flutter
-- GetX
-- Bloc
-- Cubit
-- Clean Architecture
-- REST APIs
-- Offline-first Apps
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,go"/>
-
-</p>
-
-- REST APIs
-- Authentication
-- JWT
-- WebSockets
-- Microservices
-
----
-
-## Artificial Intelligence
-
-- PyTorch
-- TensorFlow
-- Computer Vision
-- Deep Learning
-- Medical Image Classification
-- Model Deployment
-
----
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase"/>
-
-</p>
-
----
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,cloudflare"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman"/>
-
-</p>
-
----
-
-# Featured Projects
-
-## 📱 Rafiq Al-Dhikr
-
-A modern Quran application focused on performance, beautiful UI, and an exceptional reading experience.
-
-**Highlights**
-
-- Offline Quran
-- Prayer Times
-- Azkar
-- Last Read Sync
-- High Performance Rendering
-- Clean Architecture
-
-**Tech**
-
-Flutter • Bloc • SQLite
-
----
-
-## 🧠 AI Colon Cancer Classification
-
-A deep learning system capable of classifying colon cancer images using convolutional neural networks.
-
-**Highlights**
-
-- Medical Image Classification
-- PyTorch
-- Data Processing Pipeline
-- Model Training
-- Performance Evaluation
-
----
-
-## 🏠 Student Housing Platform
-
-A complete housing management platform focused on improving the experience between students and property owners.
-
-**Highlights**
-
-- Dashboard
-- Mobile Application
-- Authentication
-- Search
-- Property Management
-
----
-
-## 🚚 Logistics Platform
-
-A scalable logistics management system built for handling delivery operations and tracking.
-
-**Highlights**
-
-- REST APIs
-- Tracking
-- Backend Services
-- Mobile Client
-
----
-
-# Development Philosophy
-
-I believe good software should be
-
-- Fast
-- Simple
-- Maintainable
-- Scalable
-- User-centered
-
-Every project I build follows clean architecture principles, reusable components, and performance-first development.
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Si1verSurfer&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1verSurfer&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+modern+mobile+apps;Powered+by+scalable+backends;Enhanced+with+practical+AI;Fast+%E2%80%A2+Beautiful+%E2%80%A2+Reliable" alt="Typing intro" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Si1verSurfer&theme=github-dark&hide_border=true"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Si1verSurfer&label=Profile%20views&color=0e1117&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
+  Software engineer from <strong>Egypt</strong> — I turn complex ideas into production-ready products.
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Si1verSurfer&theme=github-dark&hide_border=true"/>
-
+<p align="center">
+  <a href="https://si1ver-surfer-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/bashar-rizq-a96414228" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Si1verSurfer" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-# Current Focus
+## About Me
 
-Currently I'm working on
+I'm **Bashar Rizk** — a software engineer focused on **Flutter**, **Node.js / Go backends**, and **applied AI**.
 
-- Building production-grade Flutter applications
-- Scalable backend systems using Go
-- AI-powered healthcare solutions
-- High-performance mobile architectures
+I build apps that are fast, maintainable, and pleasant to use: clean architecture, polished UX, and systems that scale in the real world.
+
+| | |
+| :--- | :--- |
+| **Focus** | Mobile · Backend · AI · Full-stack SaaS |
+| **Experience** | 8+ shipped projects · programming since age 15 |
+| **Location** | Egypt |
+| **Portfolio** | [si1ver-surfer-portfolio.vercel.app](https://si1ver-surfer-portfolio.vercel.app/) |
+
+---
+
+## What I Build
+
+`Mobile Apps` · `Healthcare AI` · `REST APIs` · `Real-time Systems` · `Admin Dashboards` · `Logistics Platforms` · `Automation Tools`
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,python,go,js,ts,cs" alt="Languages"/>
+</p>
+
+### Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" alt="Mobile"/>
+</p>
+
+Flutter · GetX · Bloc · Cubit · Clean Architecture · REST · Offline-first
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,docker" alt="Backend"/>
+</p>
+
+REST · Auth · JWT · WebSockets · Microservices
+
+### AI & Data
+
+PyTorch · TensorFlow · Computer Vision · Medical Image Classification · Model Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" alt="Databases"/>
+</p>
+
+### Cloud & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare,vscode,androidstudio,figma,postman" alt="Tools"/>
+</p>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Bori
+Mobility platform — family & driver apps with real-time rides, subscriptions, and admin ops.
+
+**Stack:** Flutter · Node.js · PostgreSQL · Maps
+
+</td>
+<td width="50%" valign="top">
+
+### Rafiq Al-Dhikr
+Quran app built for performance, offline reading, and a premium UX.
+
+**Stack:** Flutter · Bloc · SQLite
+
+**Repo:** [JumanAl-Hoda](https://github.com/Si1verSurfer/JumanAl-Hoda)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI Colon Cancer Classification
+Deep learning pipeline for medical image classification and evaluation.
+
+**Stack:** PyTorch · CNNs · Data pipelines
+
+</td>
+<td width="50%" valign="top">
+
+### ILEX Logistics
+Logistics system for delivery operations, tracking, and mobile workflows.
+
+**Stack:** Flutter · REST APIs · Backend services
+
+**Repo:** [ILEX](https://github.com/Si1verSurfer/ILEX)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Mtloob Medical
+Healthcare mobile experience with structured patient flows.
+
+**Stack:** Flutter · Backend APIs
+
+</td>
+<td width="50%" valign="top">
+
+### Haykal
+Real-estate mobile product with search, listings, and polished UI.
+
+**Stack:** Flutter · Clean Architecture
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://si1ver-surfer-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/See%20all%20projects-38BDF8?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="See all projects"/>
+  </a>
+</p>
+
+---
+
+## Development Philosophy
+
+> Fast · Simple · Maintainable · Scalable · User-centered
+
+Clean architecture, reusable components, and performance-first delivery on every project.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Si1verSurfer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Si1verSurfer&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Si1verSurfer&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Si1verSurfer&theme=github-dark&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true" alt="Contribution graph"/>
+</p>
+
+---
+
+## Current Focus
+
+- Production-grade **Flutter** applications
+- Scalable **Go / Node.js** backend systems
+- **AI-powered healthcare** solutions
+- High-performance mobile architecture
 - Open-source contributions
 
 ---
 
-# Open Source
-
-I enjoy contributing to projects that improve developer experience, mobile performance, and AI tooling.
-
-I'm always interested in collaborating on impactful software.
-
----
-
-# Connect
+## Connect
 
 <p align="center">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Si1verSurfer">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+  <a href="https://si1ver-surfer-portfolio.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/bashar-rizq-a96414228" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Si1verSurfer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <sub>Open to collaborations on impactful software — issues, ideas, and project invites welcome.</sub>
+</p>
 
 <p align="center">
+  <strong>Thanks for stopping by.</strong><br/>
+  If a project helps you, a star means a lot.
+</p>
 
-### Thanks for stopping by.
-
-Feel free to explore my repositories, open an issue, or connect if you'd like to collaborate on something exciting.
-
-⭐ If you find any project helpful, consider giving it a star.
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:111827&height=100&section=footer&text=Si1verSurfer&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 </p>
